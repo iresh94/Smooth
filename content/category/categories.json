@@ -1,0 +1,26 @@
+[{
+        "id": 1,
+        "name": "Shoes",
+        "image": "https://images.pexels.com/photos/39853/woman-girl-freedom-happy-39853.jpeg?cs=srgb&dl=pexels-jill-wellington-39853.jpg&fm=jpg"
+    },
+    {
+        "id": 2,
+        "name": "Handbag",
+        "image": "https://images.pexels.com/photos/39853/woman-girl-freedom-happy-39853.jpeg?cs=srgb&dl=pexels-jill-wellington-39853.jpg&fm=jpg"
+    },
+    {
+        "id": 3,
+        "name": "Perfumes",
+        "image": "https://images.pexels.com/photos/39853/woman-girl-freedom-happy-39853.jpeg?cs=srgb&dl=pexels-jill-wellington-39853.jpg&fm=jpg"
+    },
+    {
+        "id": 4,
+        "name": "Cosmetics",
+        "image": "https://images.pexels.com/photos/39853/woman-girl-freedom-happy-39853.jpeg?cs=srgb&dl=pexels-jill-wellington-39853.jpg&fm=jpg"
+    },
+    {
+        "id": 5,
+        "name": "Food",
+        "image": "https://images.pexels.com/photos/39853/woman-girl-freedom-happy-39853.jpeg?cs=srgb&dl=pexels-jill-wellington-39853.jpg&fm=jpg"
+    }
+]

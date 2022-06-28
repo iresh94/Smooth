@@ -1,0 +1,67 @@
+[{
+        "id": 1,
+        "name": "Silky Smooth Beats",
+        "onSale": false,
+        "tags": ["Headphone", "People"],
+        "image": "https://images.pexels.com/photos/39853/woman-girl-freedom-happy-39853.jpeg?cs=srgb&dl=pexels-jill-wellington-39853.jpg&fm=jpg",
+        "description": "yfyuyfuyfuyfuy",
+        "price": 20000,
+        "salePrice": null,
+        "ratings": 4.0
+    },
+    {
+        "id": 2,
+        "name": "Lady Luck Is Smiling",
+        "onSale": true,
+        "tags": ["Perfume", "Women"],
+        "image": "https://images.pexels.com/photos/39853/woman-girl-freedom-happy-39853.jpeg?cs=srgb&dl=pexels-jill-wellington-39853.jpg&fm=jpg",
+        "description": "yfyuyfuyfuyfuy",
+        "price": 3500,
+        "salePrice": 3500,
+        "ratings": 4.5
+    },
+    {
+        "id": 3,
+        "name": "Green Nike Zoom",
+        "onSale": true,
+        "tags": ["Nike", "Men"],
+        "image": "https://images.pexels.com/photos/39853/woman-girl-freedom-happy-39853.jpeg?cs=srgb&dl=pexels-jill-wellington-39853.jpg&fm=jpg",
+        "description": "yfyuyfuyfuyfuy",
+        "price": 10500,
+        "salePrice": 9000,
+        "ratings": 4.5
+    },
+    {
+        "id": 4,
+        "name": "New Home Living Room Set",
+        "onSale": false,
+        "tags": ["Home", "Pretty"],
+        "image": "https://images.pexels.com/photos/39853/woman-girl-freedom-happy-39853.jpeg?cs=srgb&dl=pexels-jill-wellington-39853.jpg&fm=jpg",
+        "description": "yfyuyfuyfuyfuy",
+        "price": 10500,
+        "salePrice": null,
+        "ratings": 4
+    },
+    {
+        "id": 1,
+        "name": "Silky Smooth Beats",
+        "onSale": false,
+        "tags": ["Headphone", "Peaople"],
+        "image": "https://images.pexels.com/photos/39853/woman-girl-freedom-happy-39853.jpeg?cs=srgb&dl=pexels-jill-wellington-39853.jpg&fm=jpg",
+        "description": "yfyuyfuyfuyfuy",
+        "price": 20000,
+        "salePrice": null,
+        "ratings": 4.0
+    },
+    {
+        "id": 5,
+        "name": "Classic Man Watch",
+        "onSale": true,
+        "tags": ["Watch", "Men"],
+        "image": "https://images.pexels.com/photos/39853/woman-girl-freedom-happy-39853.jpeg?cs=srgb&dl=pexels-jill-wellington-39853.jpg&fm=jpg",
+        "description": "yfyuyfuyfuyfuy",
+        "price": 50500,
+        "salePrice": 40000,
+        "ratings": 3.5
+    }
+]
